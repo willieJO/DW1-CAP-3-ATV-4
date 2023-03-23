@@ -1,0 +1,4 @@
+Adicionado cores de alto contraste 
+Deixando de usar cores para tranmitir informações
+Evitando cores de verde e vermelho
+Evitando usar cores para sinalizar Sucesso ou erro
